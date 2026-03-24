@@ -1,0 +1,13 @@
+pip install librosa
+pip install numpy
+pip install pandas
+pip install openpyxl
+pip install scikit-learn
+pip install jiwer
+pip install pyannote.audio
+pip install pyannote.core
+pip install pyannote.metrics
+pip install pydub
+pip install openai-whisper
+pip install google-cloud-speech
+pip install google-api-core

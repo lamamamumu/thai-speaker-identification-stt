@@ -1,0 +1,17 @@
+PyQt6
+joblib
+numpy
+pandas
+scipy
+librosa
+soundfile
+pydub
+scikit-learn
+google-cloud-speech
+google-api-core
+pyannote.audio
+pyannote.core
+pyannote.metrics
+jiwer
+openpyxl
+openai-whisper

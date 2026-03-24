@@ -1,0 +1,10 @@
+*.json
+*.pkl
+*.wav
+*.mp4
+*.exe
+output/
+result/
+models/
+__pycache__/
+*.pyc
